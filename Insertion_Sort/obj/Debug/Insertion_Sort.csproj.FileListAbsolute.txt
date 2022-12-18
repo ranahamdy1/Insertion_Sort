@@ -1,0 +1,9 @@
+D:\Desktop\Insertion_Sort\Insertion_Sort\bin\Debug\Insertion_Sort.exe.config
+D:\Desktop\Insertion_Sort\Insertion_Sort\bin\Debug\Insertion_Sort.exe
+D:\Desktop\Insertion_Sort\Insertion_Sort\bin\Debug\Insertion_Sort.pdb
+D:\Desktop\Insertion_Sort\Insertion_Sort\obj\Debug\Insertion_Sort.csprojResolveAssemblyReference.cache
+D:\Desktop\Insertion_Sort\Insertion_Sort\obj\Debug\Insertion_Sort.exe
+D:\Desktop\Insertion_Sort\Insertion_Sort\obj\Debug\Insertion_Sort.pdb
+D:\Desktop\task Algoriyhm\Insertion_Sort\Insertion_Sort\bin\Debug\Insertion_Sort.exe.config
+D:\Desktop\task Algoriyhm\Insertion_Sort\Insertion_Sort\obj\Debug\Insertion_Sort.exe
+D:\Desktop\task Algoriyhm\Insertion_Sort\Insertion_Sort\obj\Debug\Insertion_Sort.pdb
